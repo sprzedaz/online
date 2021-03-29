@@ -1,6 +1,17 @@
 h1 {
-    color: lightslategray;
+    color: rgb(57, 113, 168);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 100px;
+    font-size: 50px;
     padding: 0;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: black;
+  }
+
+body {
+  background-color: rgba(218, 95, 13, 0.856);
 }
